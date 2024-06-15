@@ -31,6 +31,7 @@ public class PersonListMain {
 
         }
         System.out.println(sumAge);
+        s
     }
 
 }
